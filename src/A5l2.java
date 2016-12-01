@@ -51,7 +51,7 @@ public class A5l2 {
 				}
 			}
 			
-	        System.out.println("The Value " + userValue +" disolays :" +index + " times.");
+	        System.out.println("The Value " + userValue +" displays :" +index + " times.");
 		
 			
 			
